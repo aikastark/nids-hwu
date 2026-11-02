@@ -498,6 +498,15 @@ Supporting material includes:
 **Actions after meeting:** record supervisor feedback and make only necessary changes to D1 before final submission.
 
 ---
+## Week 8 (2 Nov – 6 Nov)
+
+**02.11** — Reviewed the current D1 supervisor-review draft and refined the presentation of the Random Forest pilot results. The summary metrics and confusion matrix were separated more clearly, and the explanation of false positives and false negatives was simplified.
+
+Reviewed the overall dissertation methodology to make sure that the completed D1 feasibility work is clearly separated from the main D3 implementation.
+
+**Current understanding / decision:** D1 demonstrates that the proposed research is technically feasible: the CICIDS2017 dataset can be cleaned and processed, a baseline NIDS model can be trained, and preliminary constrained and unconstrained adversarial perturbations can be generated and compared. These experiments are not treated as the final robustness evaluation.
+
+**Next step:** begin D2 preparation and, after supervisor feedback, start the main D3 implementation with a stricter baseline evaluation and refinement of the adversarial attack framework.
 
 # Current Project Status — 30 October 2026
 
@@ -524,26 +533,6 @@ Supporting material includes:
 # Planned Work — November 2026
 
 > The following entries are planning items. They should be converted into completed journal entries only after the work has actually been performed.
-
-## Week 8 (2 Nov – 6 Nov)
-
-### Planned activities
-
-- Review supervisor feedback on the complete D1 draft.
-- Make required D1 corrections.
-- Review the Background Research section against the Zotero literature collection.
-- Check all references and citations.
-- Finalise figures and tables.
-- Check consistency of terminology throughout D1.
-- Begin preparation of the D2 five-minute Preparation and Feasibility Video.
-- Draft the D2 slide structure and narration.
-- Continue updating D4 project-management records.
-
-### Target by end of Week 8
-
-Stable D1 revision and first complete D2 structure.
-
----
 
 ## Week 9 (9 Nov – 13 Nov)
 
